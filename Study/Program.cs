@@ -14,6 +14,7 @@
             string workPlace = Console.ReadLine();
 
             Console.WriteLine($"Вас зовут {name}, вам {age} лет, вы {zodiac} и работаете {workPlace}.");
+            Console.WriteLine();
         }
     }
 }
